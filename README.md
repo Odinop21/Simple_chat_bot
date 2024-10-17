@@ -1,2 +1,2 @@
 # THIS IS A SIMPLE AI CHAT BOT WEB APPLICATION 
-# THIS APPLICATION USES SOCKET API AND OPENAI'S API TO GENERATE THE TEXT FOR THE BOT
+# This web application uses the Socket.io Socket api for real time Communocation Between the clinet(user) and the chat bot.
